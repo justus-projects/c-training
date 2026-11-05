@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1793837143source:/home/jbean/Education/sources/repos/c-training/c-output/example1.c
+	<stdio.h>
+
+1793837389source:/home/jbean/Education/sources/repos/c-training/c-output/example3.c
+	<stdio.h>
+
+1793837582source:/home/jbean/Education/sources/repos/c-training/c-output/example4.c
+	<stdio.h>
+
+1793839030source:/home/jbean/Education/sources/repos/c-training/c-output/example5.c
+	<stdio.h>
+
+1793843076source:/home/jbean/Education/sources/repos/c-training/c-output/codechallenge.c
+	<stdio.h>
+
