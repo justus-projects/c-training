@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1793835967source:/home/jbean/Education/sources/repos/c-training/c-syntax-syntax/main.c
+	<stdio.h>
+
+1793836669source:/home/jbean/Education/sources/repos/c-training/c-syntax-syntax/example2.c
+	<stdio.h>
+
+1793836809source:/home/jbean/Education/sources/repos/c-training/c-syntax-syntax/codechallenge.c
+	<stdio.h>
+
