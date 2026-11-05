@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793843323source:/home/jbean/Education/sources/repos/c-training/c-comments/example1.c
+	<stdio.h>
+
+1793843433source:/home/jbean/Education/sources/repos/c-training/c-comments/example2.c
+	<stdio.h>
+
