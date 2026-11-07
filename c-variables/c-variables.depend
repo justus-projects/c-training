@@ -1,13 +1,31 @@
 # depslib dependency file v1.0
-1793845223source:/home/jbean/Education/sources/repos/c-training/c-variables/example3.c
+1793845223 source:/home/jbean/Education/sources/repos/c-training/c-variables/example3.c
 	<stdio.h>
 
-1793860537source:/home/jbean/Education/sources/repos/c-training/c-variables/example4.c
+1793860537 source:/home/jbean/Education/sources/repos/c-training/c-variables/example4.c
 	<stdio.h>
 
-1793861219source:/home/jbean/Education/sources/repos/c-training/c-variables/example5.c
+1793861219 source:/home/jbean/Education/sources/repos/c-training/c-variables/example5.c
 	<stdio.h>
 
-1793862095source:/home/jbean/Education/sources/repos/c-training/c-variables/example6.c
+1793862095 source:/home/jbean/Education/sources/repos/c-training/c-variables/example6.c
+	<stdio.h>
+
+1794077596 source:s:\sources\repos\c-training\c-variables\example6.c
+	<stdio.h>
+
+1794078039 source:s:\sources\repos\c-training\c-variables\example7.c
+	<stdio.h>
+
+1794078201 source:s:\sources\repos\c-training\c-variables\example8.c
+	<stdio.h>
+
+1794078834 source:s:\sources\repos\c-training\c-variables\example9.c
+	<stdio.h>
+
+1794079095 source:s:\sources\repos\c-training\c-variables\example10.c
+	<stdio.h>
+
+1794079275 source:s:\sources\repos\c-training\c-variables\codechallenge.c
 	<stdio.h>
 
